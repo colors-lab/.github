@@ -2,7 +2,7 @@
 
 ## Cognitive Learning and Robotics laboratory
 - Here you can find [our website](https://colors.cmpe.boun.edu.tr).
-- Up-to-date list of [our papers](https://www.cmpe.boun.edu.tr/~emre/publications/).
+- Up-to-date list of [our publications](https://www.cmpe.boun.edu.tr/~emre/publications/).
 - (If you are a member) here you can find [our resources overview](https://github.com/colors-lab/Overview/).
 <br>
 
