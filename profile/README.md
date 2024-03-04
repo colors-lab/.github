@@ -8,6 +8,7 @@
 
 ### Featured Repositories of Members
 
-| [Conditional Neural Expert Processes for Learning from Demonstration](https://github.com/yildirimyigit/cnep) | <img width="75%" src="https://github.com/colors-lab/.github/raw/main/img/cnep_comp.png" alt="CNEP"> |
+| [Conditional Neural Expert Processes for Learning from Demonstration](https://github.com/yildirimyigit/cnep) | <img width="75%" src="https://github.com/colors-lab/.github/raw/main/img/cnep_comp.png" alt="CNEP" /> |
 | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [Conditional Neural Movement Primitives](https://github.com/colors-lab/CNMP) | <img src="https://raw.githubusercontent.com/colors-lab/CNMP/master/CNMP.png" alt="CNEP" /> |
 
