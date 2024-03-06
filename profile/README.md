@@ -10,6 +10,6 @@
 
 | [Conditional Neural Expert Processes for Learning from Demonstration](https://github.com/yildirimyigit/cnep) | <img height="150px" src="https://github.com/colors-lab/.github/raw/main/img/cnep_comp.png" alt="CNEP" /> |
 | :-----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | 
-| [DeepSym: End-to-end Deep Symbol Generation and Rule Learning from Unsupervised Continuous Robot Interaction for Planning](https://github.com/alper111/DeepSym) | <img height="150px" src="https://github.com/colors-lab/.github/raw/main/img/ds.png" alt="DeepSym" /> |
+| [DeepSym: End-to-end Deep Symbol Generation and Rule Learning](https://github.com/alper111/DeepSym) | <img height="150px" src="https://github.com/colors-lab/.github/raw/main/img/ds.png" alt="DeepSym" /> |
 | [Conditional Neural Movement Primitives](https://github.com/colors-lab/CNMP) | <img height="150px" src="https://raw.githubusercontent.com/colors-lab/CNMP/master/CNMP.png" alt="CNMP" /> |
 
