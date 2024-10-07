@@ -8,7 +8,7 @@
 
 ### Featured Repositories of Members
 
-| [RAMPA: Robotic Augmented Reality for Hand Trajectory<br/>Mimicry and Programming from Demonstration](https://github.com/dogadogan/ARobot) | <img height="150px" src="https://github.com/user-attachments/assets/0fe04045-d248-4c36-af13-c73b000e587f" alt="RAMPA" /> |
+| [RAMPA: Robotic Augmented Reality for Hand Trajectory Mimicry and Programming from Demonstration](https://github.com/dogadogan/ARobot) | <img height="150px" src="https://github.com/user-attachments/assets/0fe04045-d248-4c36-af13-c73b000e587f" alt="RAMPA" /> |
 | :-----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | 
 | [Conditional Neural Expert Processes for Learning from Demonstration](https://github.com/yildirimyigit/cnep) | <img height="150px" src="https://github.com/colors-lab/.github/raw/main/img/cnep_comp.png" alt="CNEP" /> |
 | [DeepSym: End-to-end Deep Symbol Generation and Rule Learning](https://github.com/alper111/DeepSym) | <img height="150px" src="https://github.com/colors-lab/.github/raw/main/img/ds.png" alt="DeepSym" /> |
